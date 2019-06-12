@@ -46,12 +46,12 @@ h1, h2, h3, h4, h5, h6 {
     <div class="w3-col m6 w3-padding-large">
       <h1 class="w3-center">History</h1><br>
       <h5 class="w3-center">Thanabodin Boonnark</h5>
-      <p class="w3-large">Birthday 31 may 1998  <span class="w3-tag w3-light-grey"></span></p>
-	  <p class="w3-large">NickName LEK <span class="w3-tag w3-light-grey"></span></p>
-	  <p class="w3-large">Address137 swine 9 district Pho District city Hope Si Sa Ket 33000  <span class="w3-tag w3-light-grey"></span></p>
-	  <p class="w3-large">A thing that I like: Anime Movie <span class="w3-tag w3-light-grey"></span></p>
-	  <p class="w3-large">favorite food: rice <span class="w3-tag w3-light-grey"></span></p>
-      <p class="w3-large w3-text-grey w3-hide-medium">.............................................................</p>
+      <p class="w3-large">Birthday:     31 may 1998  <span class="w3-tag w3-light-grey"></span></p>
+	  <p class="w3-large">NickName:   LEK <span class="w3-tag w3-light-grey"></span></p>
+	  <p class="w3-large">Address:    137 swine 9 district Pho District city Hope Si Sa Ket 33000  <span class="w3-tag w3-light-grey"></span></p>
+	  <p class="w3-large">A thing that I like:  Anime Movie <span class="w3-tag w3-light-grey"></span></p>
+	  <p class="w3-large">Favorite food:   rice <span class="w3-tag w3-light-grey"></span></p>
+      <p class="w3-large w3-text-grey w3-hide-medium">........................................................................................................................</p>
     </div>
   </div>
 </body>
